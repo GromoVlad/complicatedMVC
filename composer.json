@@ -1,10 +1,11 @@
 {
   "autoload": {
     "psr-4": {
-      "webShop\\": "vendor/webShop",
+      "webShop\\": "vendor/webShop/core",
       "app\\": "app"
     }
   },
   "require": {
+    "gabordemooij/redbean": "dev-master"
   }
 }

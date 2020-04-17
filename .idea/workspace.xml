@@ -2,27 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="221e2def-b988-4d19-b455-702f26cd38ac" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/webShop/core" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/gabordemooij/redbean" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1aPPEKz9lSUixQbCOE4L2ToIA7V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Custom" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -32,18 +43,6 @@
       <recent name="D:\OpenServer\OSPanel\domains\webShop\vendor\webShop\core" />
       <recent name="D:\OpenServer\OSPanel\domains\webShop" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,12 +54,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586634142048</updated>
-      <workItem from="1586634143138" duration="5208000" />
+      <workItem from="1586634143138" duration="7203000" />
+      <workItem from="1586674419159" duration="10939000" />
+      <workItem from="1586804325027" duration="2953000" />
+      <workItem from="1586941677215" duration="10467000" />
+      <workItem from="1586965531495" duration="10378000" />
+      <workItem from="1587022942785" duration="13123000" />
+      <workItem from="1587148453877" duration="913000" />
+      <workItem from="1587150054304" duration="167000" />
+      <workItem from="1587150382393" duration="202000" />
+      <workItem from="1587150594342" duration="3530000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -72,5 +80,36 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="63" width="1147" height="896" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587155726519">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="554" y="63" width="1147" height="896" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587155726519" />
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom" timestamp="1587155923818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587155923818" />
+    <state width="1293" height="282" key="GridCell.Tab.0.center" timestamp="1587155923818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587155923818" />
+    <state width="1293" height="282" key="GridCell.Tab.0.left" timestamp="1587155923818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587155923818" />
+    <state width="1293" height="282" key="GridCell.Tab.0.right" timestamp="1587155923818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587155923818" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1587155731888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587155731888" />
+    <state x="2498" y="202" key="SettingsEditor" timestamp="1587151676676">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2498" y="202" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587151676676" />
   </component>
 </project>
